@@ -40,20 +40,20 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "01/01/2015",
-                        "end": "12/01/2019"
+                        "start": "11/03/2008",
+                        "end": "14/12/2012"
                     },
                     "locales": {
                         "en": {
-                            "title": "**Bachelor** in Computer Science",
+                            "title": "**Technical** School N°1",
                             "info": "MIT",
-                            "text": "Earned a Bachelor's degree in Computer Science, focusing on algorithms, data structures, software engineering, and web development. Gained hands-on experience through various programming projects and boot camps.",
+                            "text": "I completed the technical school with a title of technician in electromecanic with orientation in goods and services. With a introduction to low level programming with a PLC and a CNC machine.",
                             "tags": []
                         },
                         "es": {
-                            "title": "**Licenciatura** en Ciencias de la Computación",
+                            "title": "**Escuela** de Educación Técnica N°1",
                             "info": "MIT",
-                            "text": "Obtuve una licenciatura en Ciencias de la Computación, con un enfoque en algoritmos, estructuras de datos, ingeniería de software y desarrollo web. Adquirí experiencia práctica a través de varios proyectos de programación y campamentos de entrenamiento.",
+                            "text": "Terminé la escuela de educación técnica con un título de técnico en electromecánica con orientación en bienes y servicios. Con una introducción a la programación de bajo nivel con un PLC y una máquina CNC.",
                             "tags": null
                         },
                         "fr": {
