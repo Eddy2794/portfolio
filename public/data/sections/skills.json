@@ -42,11 +42,11 @@
                     "locales": {
                         "en": {
                             "title": "**Website** design",
-                            "text": "I can bring your best ideas into life!"
+                            "text": "I turn ideas into modern, fast, and responsive websites!"
                         },
                         "es": {
                             "title": "Diseño de **sitios web**",
-                            "text": "¡Puedo hacer realidad tus mejores ideas!"
+                            "text": "¡Transformo ideas en sitios web modernos, rápidos y adaptables!"
                         },
                         "fr": {
                             "title": "Conception de **sites web**",
@@ -68,11 +68,11 @@
                     "locales": {
                         "en": {
                             "title": "**Database** management",
-                            "text": "I can handle your data effectively!"
+                            "text": "I organize, optimize, and secure your data with professional precision!"
                         },
                         "es": {
                             "title": "Gestión de **bases de datos**",
-                            "text": "¡Puedo gestionar tus datos de manera eficaz!"
+                            "text": "¡Organizo, optimizo y protejo tus datos con precisión profesional!"
                         },
                         "fr": {
                             "title": "Gestion de **bases de données**",
@@ -93,12 +93,12 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "**App** creation",
-                            "text": "I can make creative and innovative apps!"
+                            "title": "**Web App** Development",
+                            "text": "I build dynamic, scalable web apps with a unique identity!"
                         },
                         "es": {
-                            "title": "Creación de **aplicaciones**",
-                            "text": "¡Puedo crear aplicaciones creativas e innovadoras!"
+                            "title": "Creación de **aplicaciones web**",
+                            "text": "¡Construyo apps web dinámicas, escalables y con identidad propia!"
                         },
                         "fr": {
                             "title": "Création d'**applications**",
@@ -146,11 +146,11 @@
                     "locales": {
                         "en": {
                             "title": "Information **Security**",
-                            "text": "Security is my middle name!"
+                            "text": "Security matters. That’s why I treat your data like my own!"
                         },
                         "es": {
                             "title": "**Seguridad** de la información",
-                            "text": "¡La seguridad es mi segundo nombre!"
+                            "text": "¡La seguridad importa. Por eso cuido tus datos como si fueran míos!"
                         },
                         "fr": {
                             "title": "**Sécurité** de l'information",
@@ -181,9 +181,9 @@
                         "fa": "fa-brands fa-node-js",
                         "faColors": {"bg": "#339933", "fill": "#EEE"}
                     },
-                    "value": 95,
+                    "value": 75,
                     "dates": {
-                        "start": "01/15/2019"
+                        "start": "12/06/2023"
                     },
                     "locales": {
                         "en": {
@@ -198,9 +198,9 @@
                         "fa": "fa-brands fa-java",
                         "faColors": {"bg": "#007396", "fill": "#EEE"}
                     },
-                    "value": 90,
+                    "value": 50,
                     "dates": {
-                        "start": "03/10/2019"
+                        "start": "03/10/2015"
                     },
                     "locales": {
                         "en": {
@@ -215,7 +215,7 @@
                         "fa": "fa-brands fa-python",
                         "faColors": {"bg": "#306998", "fill": "#EEE"}
                     },
-                    "value": 85,
+                    "value": 55,
                     "dates": {
                         "start": "06/20/2020"
                     },
@@ -229,29 +229,12 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-gem",
-                        "faColors": {"bg": "#CC0000", "fill": "#EEE"}
-                    },
-                    "value": 80,
-                    "dates": {
-                        "start": "08/30/2020"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Ruby on Rails",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
                         "fa": "fa-solid fa-database",
                         "faColors": {"bg": "#4479A1", "fill": "#EEE"}
                     },
-                    "value": 90,
+                    "value": 80,
                     "dates": {
-                        "start": "10/10/2020"
+                        "start": "08/10/2015"
                     },
                     "locales": {
                         "en": {
@@ -283,9 +266,9 @@
                         "fa": "fa-brands fa-php",
                         "faColors": {"bg": "#FFD700", "fill": "#111"}
                     },
-                    "value": 100,
+                    "value": 80,
                     "dates": {
-                        "start": "09/01/2018"
+                        "start": "01/01/2013"
                     },
                     "locales": {
                         "en": {
@@ -300,9 +283,9 @@
                         "fa": "fa-solid fa-life-ring",
                         "faColors": {"bg": "#326CE5", "fill": "#EEE"}
                     },
-                    "value": 80,
+                    "value": 30,
                     "dates": {
-                        "start": "07/10/2021"
+                        "start": "07/10/2024"
                     },
                     "locales": {
                         "en": {
@@ -334,9 +317,9 @@
                         "fa": "fa-brands fa-git",
                         "faColors": {"bg": "#F05032", "fill": "#111"}
                     },
-                    "value": 95,
+                    "value": 85,
                     "dates": {
-                        "start": "01/01/2018"
+                        "start": "01/01/2015"
                     },
                     "locales": {
                         "en": {
@@ -363,9 +346,9 @@
                         "fa": "fa-brands fa-html5",
                         "faColors": {"bg": "#E34F26", "fill": "#EEE"}
                     },
-                    "value": 100,
+                    "value": 90,
                     "dates": {
-                        "start": "09/01/2018"
+                        "start": "09/01/2015"
                     },
                     "locales": {
                         "en": {
@@ -380,9 +363,9 @@
                         "fa": "fa-brands fa-css3",
                         "faColors": {"bg": "#1572B6", "fill": "#EEE"}
                     },
-                    "value": 65,
+                    "value": 75,
                     "dates": {
-                        "start": "01/15/2019"
+                        "start": "03/15/2015"
                     },
                     "locales": {
                         "en": {
@@ -397,9 +380,9 @@
                         "fa": "fa-brands fa-js",
                         "faColors": {"bg": "#F7DF1E", "fill": "#111"}
                     },
-                    "value": 90,
+                    "value": 70,
                     "dates": {
-                        "start": "03/10/2020"
+                        "start": "03/10/2019"
                     },
                     "locales": {
                         "en": {
@@ -414,30 +397,13 @@
                         "fa": "fa-brands fa-react",
                         "faColors": {"bg": "#61DAFB", "fill": "#111"}
                     },
-                    "value": 95,
+                    "value": 55,
                     "dates": {
-                        "start": "06/20/2020"
+                        "start": "12/20/2023"
                     },
                     "locales": {
                         "en": {
                             "title": "React",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-vuejs",
-                        "faColors": {"bg": "#4FC08D", "fill": "#111"}
-                    },
-                    "value": 40,
-                    "dates": {
-                        "start": "08/30/2023"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Vue.js",
                             "info": null
                         }
                     }
@@ -450,11 +416,45 @@
                     },
                     "value": 90,
                     "dates": {
-                        "start": "02/10/2021"
+                        "start": "02/10/2019"
                     },
                     "locales": {
                         "en": {
                             "title": "Bootstrap",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-angular",
+                        "faColors": {"bg": "#DD0031", "fill": "#EEE"}
+                    },
+                    "value": 80,
+                    "dates": {
+                        "start": "03/01/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Angular",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-joomla",
+                        "faColors": {"bg": "#A10025", "fill": "#EEE"}
+                    },
+                    "value": 50,
+                    "dates": {
+                        "start": "07/10/2015"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Tecnologías CMS",
                             "info": null
                         }
                     }
@@ -485,13 +485,13 @@
                     "locales": {
                         "en": {
                             "title": "English",
-                            "info": "Native speaker with excellent communication and writing skills.",
-                            "tags": ["Native"]
+                            "info": "Fluent in technical reading and writing.",
+                            "tags": ["technical", "reading", "writing"]
                         },
                         "es": {
                             "title": "Inglés",
-                            "info": "Hablante nativo con excelentes habilidades de comunicación y escritura.",
-                            "tags": ["Nativo"]
+                            "info": "Comprensión y redacción técnica fluida.",
+                            "tags": ["técnico", "lectura", "escritura"]
                         },
                         "fr": {
                             "title": "Anglais",
@@ -508,7 +508,7 @@
 
                 {
                     "icon": {
-                        "img": "images/flags/fr.png",
+                        "img": "images/flags/es.png",
                         "fa": null,
                         "faColors": { "bg": null, "fill": null }
                     },
@@ -516,88 +516,24 @@
                     "dates": { "start": null },
                     "locales": {
                         "en": {
-                            "title": "French",
-                            "info": "Fluent in both spoken and written French; confident in professional communication.",
-                            "tags": ["Fluent"]
+                            "title": "Spanish",
+                            "info": "Native speaker with excellent communication and writing skills.",
+                            "tags": ["Native"]
                         },
                         "es": {
-                            "title": "Francés",
-                            "info": "Fluido en francés hablado y escrito; seguro en la comunicación profesional.",
-                            "tags": ["Fluido"]
+                            "title": "Español",
+                            "info": "Hablante nativo con excelentes habilidades de comunicación y escritura.",
+                            "tags": ["Nativo"]
                         },
                         "fr": {
-                            "title": "Français",
-                            "info": "Fluent à l'oral et à l'écrit; confiant dans la communication professionnelle.",
+                            "title": "Espagnol",
+                            "info": "Courant en espagnol écrit et parlé.",
                             "tags": ["Courant"]
                         },
                         "ko": {
-                            "title": "프랑스어",
-                            "info": "구어 및 문어에 유창하며, 전문적인 소통에 자신감이 있음.",
-                            "tags": ["유창"]
-                        }
-                    }
-                },
-
-                {
-                    "icon": {
-                        "img": "images/flags/vn.png",
-                        "fa": null,
-                        "faColors": { "bg": null, "fill": null }
-                    },
-                    "value": null,
-                    "dates": { "start": null },
-                    "locales": {
-                        "en": {
-                            "title": "Vietnamese",
-                            "info": "Intermediate proficiency in Vietnamese language; can hold conversations and understand written text.",
-                            "tags": ["Intermediate"]
-                        },
-                        "es": {
-                            "title": "Vietnamita",
-                            "info": "Competencia intermedia en el idioma vietnamita; puede mantener conversaciones y entender textos escritos.",
-                            "tags": ["Intermedio"]
-                        },
-                        "fr": {
-                            "title": "Vietnamien",
-                            "info": "Compétence intermédiaire en vietnamien; peut tenir des conversations et comprendre des textes écrits.",
-                            "tags": ["Intermédiaire"]
-                        },
-                        "ko": {
-                            "title": "베트남어",
-                            "info": "중간 수준의 베트남어 실력; 대화 가능 및 글을 이해할 수 있음.",
-                            "tags": ["중급"]
-                        }
-                    }
-                },
-
-                {
-                    "icon": {
-                        "img": "images/flags/ko.png",
-                        "fa": null,
-                        "faColors": { "bg": null, "fill": null }
-                    },
-                    "value": null,
-                    "dates": { "start": null },
-                    "locales": {
-                        "en": {
-                            "title": "Korean",
-                            "info": "Basic understanding of Korean; learning and improving.",
-                            "tags": ["Basic"]
-                        },
-                        "es": {
-                            "title": "Coreano",
-                            "info": "Comprensión básica del coreano; aprendiendo y mejorando.",
-                            "tags": ["Básico"]
-                        },
-                        "fr": {
-                            "title": "Coréen",
-                            "info": "Compréhension de base du coréen; en apprentissage et amélioration.",
-                            "tags": ["Basique"]
-                        },
-                        "ko": {
-                            "title": "한국어",
-                            "info": "기초적인 한국어 이해; 배우는 중이며 향상 중.",
-                            "tags": ["기초"]
+                            "title": "스페인어",
+                            "info": "스페인어 읽기 및 쓰기 능숙.",
+                            "tags": ["유창함"]
                         }
                     }
                 }
