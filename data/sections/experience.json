@@ -1,0 +1,152 @@
+{
+    "locales": {
+        "en": {
+            "title": "Experience",
+            "title_long_prefix": "Summary of my",
+            "title_long": "**Work** Experience"
+        },
+
+        "es": {
+            "title": "Experiencia",
+            "title_long_prefix": "Resumen de mi",
+            "title_long": "Experiencia **Laboral**"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "work",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/pictures/mpa.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "12/03/2023",
+                        "end": "now"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Backend** Developer",
+                            "info": "Public Prosecutor's Office",
+                            "text": "I contribute to the development and maintenance of a scalable digital backend management system. I optimize database performance and implement RESTful APIs to enhance the application's functionality.",
+                            "tags": ["Node.js", "MySQL", "Express", "RESTful APIs"]
+                        },
+                        "es": {
+                            "title": "Desarrollador **Backend**",
+                            "info": "Ministerio Público de la Acusación",
+                            "text": "Colaboro en el desarrollo y mantenimiento de un sistema de gestión digital backend escalable. Optimizo el rendimiento de bases de datos e implemento APIs RESTful para potenciar la funcionalidad de la aplicación.",
+                            "tags": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/educacion.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "01/01/2023",
+                        "end": "12/31/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Full-Stack** Developer",
+                            "info": "Coursera",
+                            "text": "I developed a school cooperatives registration system, working from the database to the frontend. I used open-source technologies like Laravel and Angular to deliver a user-friendly interface and an optimized, efficient backend architecture.",
+                            "tags": ["Laravel", "Angular", "Full-Stack", "Frontend", "Backend", "SQL Server", "REST", "Docker"]
+                        },
+                        "es": {
+                            "title": "Desarrollador **Full-Stack**",
+                            "info": "Ministerio de Educación",
+                            "text": "Desarrollé un sistema de registro de cooperadoras escolares, trabajando desde la base de datos hasta el frontend. Utilicé tecnologías libres como Laravel y Angular para crear una interfaz amigable y una arquitectura backend optimizada y eficiente.",
+                            "tags": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/tecnomatico.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "04/10/2015",
+                        "end": "08/31/2017"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**IT** Infrastructure Support",
+                            "info": "Coop. Tecnomática Ltda.",
+                            "text": "Provided technical support for computer systems, performing both hardware and software maintenance and repairs.",
+                            "tags": ["Java", "AWS", "REST", "Docker"]
+                        },
+                        "es": {
+                            "title": "Soporte de Infraestructura **Informática**",
+                            "info": "Coop. Tecnomática Ltda.",
+                            "text": "Brindé soporte técnico a equipos informáticos, realizando mantenimiento preventivo y correctivo de hardware y software.",
+                            "tags": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/tecnomatico.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "01/08/2016",
+                        "end": "04/31/2017"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Website** Development and Implementation",
+                            "info": "Coop. Tecnomática Ltda.",
+                            "text": "Developed and implemented websites using CMS technologies such as Joomla, WordPress, Moodle, and PrestaShop. Also provided ongoing maintenance with design updates, content editing, image management, and other client-specific changes.",
+                            "tags": ["Joomla", "WordPress", "Moodle", "PrestaShop", "CMS", "PHP"]
+                        },
+                        "es": {
+                            "title": "Desarrollo e implementación de **Sitios Web**",
+                            "info": "Coop. Tecnomática Ltda.",
+                            "text": "Desarrollé e implementé sitios web utilizando tecnologías CMS como Joomla, WordPress, Moodle y PrestaShop. También brindé mantenimiento continuo, aplicando cambios de diseño, actualización de artículos, imágenes y otros contenidos según los requerimientos del cliente.",
+                            "tags": ["Joomla", "WordPress", "Moodle", "PrestaShop", "CMS", "PHP"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/unju.PNG",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "08/01/2022",
+                        "end": "now"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "IT and Web Support **Lead**",
+                            "info": "Subsecretariat of Internationalization and Regional Integration – UNJu.",
+                            "text": "IT lead at the Internationalization Secretariat of UNJu. Provided technical support for equipment, tech advisory, website maintenance, livestreaming of international events, staff training on new technologies, and local network maintenance.",
+                            "tags": ["Joomla", "WordPress", "Moodle", "CMS", "PHP", "Tech Support", "Streaming", "Networking"]
+                        },
+                        "es": {
+                            "title": "**Responsable** de Tecnología y Soporte Web",
+                            "info": "Subsecretaría de Internacionalización e Integración Regional - UNJu.",
+                            "text": "Responsable del área informática en la Secretaría de Internacionalización de la UNJu. Brindo soporte técnico a equipos, asesoría tecnológica, mantenimiento de sitios web, transmisiones en vivo de eventos internacionales, capacitación al personal en nuevas tecnologías y mantenimiento de la red local.",
+                            "tags": ["Joomla", "WordPress", "Moodle", "CMS", "PHP", "Tech Support", "Streaming", "Networking"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

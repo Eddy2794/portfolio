@@ -1,0 +1,97 @@
+{
+    "locales": {
+        "en": {
+            "title": "Contact",
+            "title_long_prefix": "Don't hesitate to",
+            "title_long": "**Contact** Me"
+        },
+
+        "es": {
+            "title": "Contacto",
+            "title_long_prefix": "No dudes en",
+            "title_long": "**Contactar**me"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "contact_list",
+            "component": "ArticleGrid",
+            "config": {
+                "format": "grid"
+            },
+            "locales": {
+                "en": {"title": "Send me a **message**"},
+                "es": {"title": "Envíame un **mensaje**"},
+                "fr": {"title": "Envoyez-moi un **message**"},
+                "ko": {"title": "**메시지를** 보내주세요"}
+            },
+
+            "items": [
+                {
+                    "value": "+54 (388) 514-3456",
+                    "links": [
+                        {"href": "tel:+543885143456"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-phone",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "Phone"},
+                        "es": {"title": "Teléfono"},
+                        "fr": {"title": "Téléphone"},
+                        "ko": {"title": "전화"}
+                    }
+                },
+
+                {
+                    "value": "mamaniedgardo20@gmail.com",
+                    "links": [
+                        {"href": "mailto:mamaniedgardo20@gmail.com"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "E-mail"},
+                        "ko": {"title": "이메일"}
+                    }
+                },
+
+                {
+                    "value": "@edgardo_mamani",
+                    "links": [
+                        {"href": "https://www.linkedin.com/in/edgardo-maman%C3%AD-900811238/"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-linkedin",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "Linkedin"}
+                    }
+                },
+
+                {
+                    "value": "@Eddy2794",
+                    "links": [
+                        {"href": "https://github.com/Eddy2794"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-github",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "Github"}
+                    }
+                }
+            ]
+        }
+    ]
+}

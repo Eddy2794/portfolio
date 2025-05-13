@@ -1,0 +1,237 @@
+{
+    "locales": {
+        "en": {
+            "title": "Welcome!",
+            "title_menu": "About me",
+            "title_long_prefix": "Hello...",
+            "title_long": "I'm **Edgardo Mamani!**"
+        },
+
+        "es": {
+            "title": "¡Saludos!",
+            "title_menu": "Sobre mí",
+            "title_long_prefix": "Hola...",
+            "title_long": "Soy **Edgardo Mamani!**"
+        },
+
+        "fr": {
+            "title": "Salut !",
+            "title_menu": "À propos",
+            "title_long_prefix": "Salut...",
+            "title_long": "Je suis **Edgardo Mamani!**"
+        },
+
+        "ko": {
+            "title": "환영합니다!",
+            "title_menu": "소개",
+            "title_long_prefix": "안녕하세요...",
+            "title_long": "저는 **Edgardo Mamani** 입니다!"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "contact_list",
+            "component": "ArticleGrid",
+            "config": {
+                "ignorePaddingTop": true,
+                "format": "inline"
+            },
+            "locales": {
+                "en": {},
+                "es": {},
+                "fr": {},
+                "ko": {}
+            },
+
+            "items": [
+                {
+                    "value": "San Salvador de Jujuy – Argentina",
+                    "links": [
+                        {"href": null}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-city",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "mamaniedgardo20@gmail.com",
+                    "links": [
+                        {"href": "mailto:mamaniedgardo20@gmail.com"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "@edgardo",
+                    "links": [
+                        {"href": "https://github.com/Eddy2794"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-github",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "short_description",
+            "component": "ArticleInfoBlock",
+            "config": {},
+            "locales": {
+                "en": {"title": "**A little bit** about me..."},
+                "es": {"title": "**Un poco** sobre mí..."},
+                "fr": {"title": "**Un peu** à propos de moi..."},
+                "ko": {"title": "저에 **대해 조금**..."}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/svg/logo.svg",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"text": "<p>I'm a developer with experience in Node.js, Express.js, Laravel, Angular, JavaScript, and databases like MySQL and SQL Server.</p><p>I also have experience in technical support, networks, and computer maintenance.</p><p>I've worked with CMS like WordPress, Joomla, PrestaShop and Moodle, and used Docker for development and deployment environments.</p><p>💡 I'm passionate about learning, growing professionally, and staying updated with new technologies and IT challenges.</p><p>I'm ready to contribute, collaborate, and face new challenges!</p><p>This diverse background allows me to adapt to a wide range of project needs.</p><p>I look forward to collaborating <b>with you!</b></p>"},
+                        "es": {"text": "<p>Soy desarrollador web con experiencia en Node.js, Express.js, Laravel, Angular, JavaScript, y bases de datos como MySQL y SQL Server.</p><p>También tengo conocimientos en soporte técnico, redes, y mantenimiento de equipos informáticos.</p><p>He trabajado con CMS como WordPress, Joomla, PrestaShop y Moodle, además de utilizar Docker para entornos de desarrollo y despliegue.</p><p>💡 Me apasiona seguir aprendiendo, crecer profesionalmente y mantenerme actualizado frente a nuevas tecnologías y desafíos del mundo IT.</p><p>¡Estoy listo para aportar, colaborar y enfrentar nuevos retos!</p><p>Este variado historial me permite adaptarme a una amplia gama de necesidades de proyectos.</p><p>¡Espero con interés colaborar <b>contigo!</b></p>"},
+                        "fr": {"text": "<p>Je suis développeur PHP avec <b>plus d'une décennie</b> d'expérience, spécialisé dans le développement backend avec un peu de travail en frontend également. J'ai aussi de l'expérience en production avec les technologies C++, C#, Go et Python.</p><p>Ce parcours diversifié me permet de m'adapter à une large gamme de besoins de projets.</p><p>Je suis impatient de collaborer <b>avec vous !</b></p>"},
+                        "ko": {"text": "<p>저는 백엔드 개발을 전문으로 하고, 프론트엔드 작업도 일부 수행해온 <b>10년 이상의</b> 경력을 가진 PHP 개발자입니다. 또한 C++, C#, Go, Python 스택을 사용한 프로덕션 경험도 있습니다.</p><p>이 다양한 배경 덕분에 프로젝트의 다양한 요구에 유연하게 대처할 수 있습니다.</p><p><b>당신과 협업</b>하기를 기대하고 있습니다!</p>"}
+                    }
+                }
+            ]
+        },
+
+
+        {
+            "id": "interests",
+            "component": "ArticleGrid",
+            "config": {
+                "format": "grid"
+            },
+            "locales": {
+                "en": {"title": "Personal **interests**"},
+                "es": { "title": "Intereses **personales**" },
+                "fr": { "title": "Intérêts **personnels** " },
+                "ko": { "title": "개인 **관심사**" }
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-gamepad",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Playing video games",
+                            "info": "My distraction when I have some free time."
+                        },
+                        "es": {
+                            "title": "Jugar videojuegos",
+                            "info": "Mi distracción cuando tengo un poco de tiempo libre."
+                        },
+                        "fr": {
+                            "title": "Jouer de la guitare",
+                            "info": "Explorer différents genres et améliorer mes compétences."
+                        },
+                        "ko": {
+                            "title": "기타 연주",
+                            "info": "다양한 장르를 탐험하고 기술을 향상시키기."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-code",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Coding",
+                            "info": "Learning to use development tools and AI to improve my projects."
+                        },
+                        "es": {
+                            "title": "Programar",
+                            "info": "Aprendiendo a usar herramientas de desarrollo e IA para mejorar mis proyectos."
+                        },
+                        "fr": {
+                            "title": "Programmer",
+                            "info": "Apprendre à utiliser des outils d'IA pour améliorer mes vidéos."
+                        },
+                        "ko": {
+                            "title": "프로그래밍",
+                            "info": "AI 도구를 사용하여 내 영상을 향상시키는 방법 배우기."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-computer",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Learning new technologies",
+                            "info": "Reading and learning to use new technologies to improve my projects."
+                        },
+                        "es": {
+                            "title": "Aprender nuevas tecnologías",
+                            "info": "Leer y aprender a usar nuevas tecnologías para mejorar mis proyectos."
+                        },
+                        "fr": {
+                            "title": "Illustration",
+                            "info": "Pratiquer l'art numérique et explorer de nouveaux styles."
+                        },
+                        "ko": {
+                            "title": "일러스트레이션",
+                            "info": "디지털 아트를 연습하고 새로운 스타일을 탐험하기."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-tv",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Watching series",
+                            "info": "Another of my distractions when I have some free time."
+                        },
+                        "es": {
+                            "title": "Ver series",
+                            "info": "Otra de mis distracciones cuando tengo tiempo libre."
+                        },
+                        "fr": {
+                            "title": "Investir",
+                            "info": "Apprendre les bases des actions et des finances personnelles."
+                        },
+                        "ko": {
+                            "title": "투자",
+                            "info": "주식과 개인 재정의 기초 배우기."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

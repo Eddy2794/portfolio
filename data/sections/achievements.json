@@ -1,0 +1,103 @@
+{
+    "locales": {
+        "en": {
+            "title": "Awards",
+            "title_menu": "Achievements",
+            "title_long_prefix": "Here are my",
+            "title_long": "Career **Achievements**"
+        },
+
+        "es": {
+            "title": "Logros",
+            "title_menu": "Logros",
+            "title_long_prefix": "Aquí están mis",
+            "title_long": "**Logros** Profesionales"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "certifications",
+            "component": "ArticleCards",
+            "config": {},
+            "locales": {
+                "en": { "title": "Certifications" },
+                "es": { "title": "Certificaciones" },
+                "fr": { "title": "Certifications" },
+                "ko": { "title": "인증서" }
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-joomla",
+                        "faColors": {"bg": "#326CE5", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "12/08/2015",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://www.tecnomati.co/" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "Avalado por la **Universidad Nacional de Jujuy**",
+                            "text": "Design and implementation of websites using CMS platforms like Joomla"
+                        },
+                        "es": {
+                            "text": "Diseño e implementación de Sitios Web usando CMS como Joomla"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-code",
+                        "faColors": {"bg": "#FFD700", "fill": "#111"}
+                    },
+                    "dates": {
+                        "start": "05/05/2017",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://www.unju.edu.ar/" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Universidad Nacional de Jujuy** – UNJu",
+                            "text": "Introduction and interactive feature development with jQuery"
+                        },
+                        "es": {
+                            "text": "Introducción y desarrollo de funcionalidades interactivas con jQuery"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {"bg": "#007396", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "05/05/2023",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://www.virtual.unju.edu.ar/" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**MySql**",
+                            "text": "Diploma in database management and design"
+                        },
+                        "es": {
+                            "text": "Diplomatura en gestión y diseño de bases de datos"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

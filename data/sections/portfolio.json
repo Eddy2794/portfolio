@@ -1,0 +1,220 @@
+{
+    "locales": {
+        "en": {
+            "title": "Portfolio",
+            "title_long_prefix": "Take a look at",
+            "title_long": "My **Portfolio**"
+        },
+
+        "es": {
+            "title": "Portafolio",
+            "title_long_prefix": "Explora",
+            "title_long": "Mi **Portafolio**"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "portfolio",
+            "component": "ArticlePortfolio",
+            "config": {},
+            "locales": {},
+
+            "categories": [
+                {
+                    "id": "apps",
+                    "locales": {
+                        "en": {"singular": "App Web", "plural": "Apps Web"},
+                        "es": {"singular": "App Web", "plural": "Apps Web"}
+                    }
+                },
+                {
+                    "id": "websites",
+                    "locales": {
+                        "en": {"singular": "Website", "plural": "Web"},
+                        "es": {"singular": "Sitio web", "plural": "Web"}
+                    }
+                }
+            ],
+
+            "items": [
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "",
+                        "fa": "fa-solid fa-graduation-cap",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "https://www.icadejujuy.edu.ar/"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Institutional Website Development for ICADE Jujuy",
+                            "text": "Institutional website for a professional training institute, built with Joomla and integrated with Moodle for course virtualization.",
+                            "tags": ["Joomla", "Moodle", "Educación", "Integración", "CMS"]
+                        },
+                        "es": {
+                            "title": "Desarrollo de sitio institucional para ICADE Jujuy",
+                            "text": "Sitio web institucional para un instituto de capacitación profesional, implementado con Joomla y vinculado a una plataforma Moodle para la virtualización de los cursos.",
+                            "tags": ["Joomla", "Moodle", "Educación", "Integración", "CMS"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img": "",
+                        "fa": "fa-solid fa-school",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": "16:9",
+                            "images": [
+                                "images/pictures/ruce.png",
+                                "images/pictures/ruce1.png",
+                                "images/pictures/ruce2.png",
+                                "images/pictures/ruce3.png",
+                                "images/pictures/ruce4.png"
+                            ]
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "School Association Management System",
+                            "text": "A system for registering school associations, featuring user access management, a data summary dashboard, and section-specific administration based on access permissions.",
+                            "tags": ["Backend", "Frontend", "SQL Server", "REST", "Docker", "Laravel", "Angular"]
+                        },
+                        "es": {
+                            "title": "Sistema de Gestión para Cooperadoras Escolares",
+                            "text": "Sistema para el registro de cooperadoras escolares, con gestión de usuarios, panel de control con resumen de datos y administración de secciones específicas según permisos de acceso.",
+                            "tags": ["Backend", "Frontend", "SQL Server", "REST", "Docker", "Laravel", "Angular"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img": "images/pictures/mpa.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "https://gestion.mpajujuy.gob.ar/"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": [
+                            ]
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Digital Management System",
+                            "text": "Actively contributing to the development of a large-scale digital system for managing complaints, case files, and statistics. Features include notifications, scheduling, digital signatures, integration with the national register, reports, and more.",
+                            "tags": ["Node.js", "RESTful API", "Management", "Backend", "Digital Signatures"]
+                        },
+                        "es": {
+                            "title": "Sistema de Gestión Digital",
+                            "text": "Colaboro activamente en el desarrollo de un sistema de gran envergadura para la gestión digital de denuncias, legajos y estadísticas. Incluye notificaciones, agenda, turnos, firma digital, integración con padrón, generación de reportes y más.",
+                            "tags": ["Node.js", "RESTful API", "Gestión", "Backend", "Firmas Digitales"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "",
+                        "fa": "fa-solid fa-graduation-cap",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "https://eddy2794.github.io/SitioWebGYM-Bootstrap/"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Academic Practice Website",
+                            "text": "A website built as part of coursework to get familiar with new technologies and begin exploring modern web development.",
+                            "tags": ["HTML", "Bootstrap", "GitHub", "Practice", "Frontend"]
+                        },
+                        "es": {
+                            "title": "Sitio Web de Práctica Académica",
+                            "text": "Sitio web desarrollado como parte de la carrera para familiarizarnos con nuevas tecnologías y comenzar a explorar el desarrollo web moderno.",
+                            "tags": ["HTML", "Bootstrap", "GitHub", "Práctica", "Frontend"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img": "",
+                        "fa": "fa-solid fa-graduation-cap",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "https://campus.icadejujuy.edu.ar/"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Integrated Moodle Platform",
+                            "text": "Moodle-based virtual learning platform linked to the institutional website, managing courses, virtual classes, and educational content.",
+                            "tags": ["Moodle", "Virtual Education", "E-learning", "CMS", "Web Integration"]
+                        },
+                        "es": {
+                            "title": "Plataforma Moodle Integrada",
+                            "text": "Plataforma de educación virtual Moodle, asociada al sitio web institucional, que gestiona cursos, clases virtuales y contenidos educativos de la institución.",
+                            "tags": ["Moodle", "Educación Virtual", "E-learning", "CMS", "Integración Web"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
