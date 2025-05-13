@@ -26,19 +26,7 @@
     },
 
     "articles": [
-        {
-            "id": "contact_form",
-            "component": "ArticleContactForm",
-            "config": {},
-            "locales": {
-                "en": {"title": "Send me a **message**"},
-                "es": {"title": "Envíame un **mensaje**"},
-                "fr": {"title": "Envoyez-moi un **message**"},
-                "ko": {"title": "**메시지를** 보내주세요"}
-            },
-
-            "items": null
-        },
+        
 
         {
             "id": "contact_list",
@@ -47,10 +35,10 @@
                 "format": "grid"
             },
             "locales": {
-                "en": {"title": "Or if you **prefer**..."},
-                "es": {"title": "O si **prefieres**..."},
-                "fr": {"title": "Ou si vous **préférez**..."},
-                "ko": {"title": "또는 **원하시면**..."}
+                "en": {"title": "Send me a **message**"},
+                "es": {"title": "Envíame un **mensaje**"},
+                "fr": {"title": "Envoyez-moi un **message**"},
+                "ko": {"title": "**메시지를** 보내주세요"}
             },
 
             "items": [

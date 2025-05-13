@@ -123,7 +123,7 @@ function ArticleContactForm({ data }) {
             )}
 
             {didSubmitMessage && (
-                <StatusMessage title={getString('yay')}
+                <StatusMessage title={getString('Okey')}
                                faIcon={`fa-solid fa-check`}
                                type={`success`}
                                message={getString('message_sent_success')}/>
